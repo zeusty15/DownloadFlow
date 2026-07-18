@@ -1,0 +1,20 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# PowerShell
+*.log
+
+# Local configuration backups
+config.local.json
+config.*.local.json
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.tmp
+
+# Test or temporary folders
+temp/
+tmp/
